@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacoboGarcesO.JacoboGarcesO">
-<img src="https://wakatime.com/badge/user/39d481a8-5bf1-430d-b7fd-e9aff90c3d1c.svg">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jacobo+Garcés....;Nice+to+meet+you!&center=true&size=30">
